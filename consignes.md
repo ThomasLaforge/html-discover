@@ -1,0 +1,21 @@
+1. rollers
+    - width: 80%
+    - titre principale sous-ligné : Les rollers
+    - sous-titre en italique : Le roller est un sport de glisse qui se pratique avec des patins à roulettes.
+    - images avec un pointeur de la souris en forme de main quand on passe dessus
+        - image 50% : https://www.rollerenligne.com/wp-content/uploads/2019/05/roller-quad.jpg
+        - image 30% centrée avec le reste : https://www.rollerenligne.com/wp-content/uploads/2019/05/roller-quad.jpg
+    - deux listes côte à côte séparées par un trait verticale de 3px de large gris en pointillés
+        - liste 1 à puces encadrée en vert avec le mot roller en gras : Qu'est ce que le roller
+            - Le roller est un sport de glisse qui se pratique avec des patins à roulettes.
+            - Le roller c'est cool
+            - Le roller c'est dangereux
+        - liste 2 numérotée avec espacement de 10px et texte en violet : Les différents types de roller
+            - Le roller de vitesse
+            - Le roller de descente
+            - Le roller de freestyle
+            - Le roller de hockey
+            - Le roller de randonnée
+            - Le roller de slalom
+            - Le roller de street
+            - Le roller de course
