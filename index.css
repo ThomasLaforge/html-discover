@@ -28,3 +28,32 @@ img {
     margin-left: 10%;
     width: 30%;
 }
+
+#lists-roller {
+    display: flex;
+    flex-direction: row;
+}
+
+article {
+    width: 50%;
+}
+
+#first-list {
+    border-right: 3px dotted gray;
+}
+
+ul {
+    border: 1px solid green;
+}
+
+.element-with-space {
+    margin-bottom: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+ol {
+    color: purple;
+}
