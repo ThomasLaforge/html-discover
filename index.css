@@ -10,3 +10,21 @@ h1 {
 h2 {
     font-style: italic;
 }
+
+#images-roller {
+    display: flex;
+    flex-direction: row;
+}
+
+img {
+    cursor: grab;
+}
+
+#big-image {
+    width: 50%;
+}
+
+#small-image {
+    margin-left: 10%;
+    width: 30%;
+}
